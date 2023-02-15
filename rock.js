@@ -1,5 +1,5 @@
-function getComputerChoice(nomber){
-    return Math.floor(Math.random() * nomber);
+function getComputerChoice(number){
+    return Math.floor(Math.random() * number);
 }
 
 function playRound(playerSelection, computerSelection) {
